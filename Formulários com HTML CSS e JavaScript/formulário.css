@@ -5,13 +5,13 @@
 
 #titulo{
     font-family: sans-serif;
-    color: #380b61;
+    color: #bd1083;
     margin-left: 7%;
 }
 
 #subtitulo{
     font-family: sans-serif;
-    color: #380b61;
+    color: #b307aa;
     margin-left: 10%;
 }
 
@@ -20,10 +20,10 @@ fieldset{
 }
 
 body{
-    background-color: #f0f8ff;
+    background-color: #fedcff;
     font-family: sans-serif ;
     font-size: 1em;
-    color: #59429d;
+    color: #9b018e;
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
@@ -32,7 +32,7 @@ body{
 input, select, textarea, button{
     font-family: sans-serif;
     font-size: 1em;
-    color: #59429d;
+    color: #771f77;
     border-radius: 5px;
 
 }
@@ -51,7 +51,7 @@ input, select, textarea, button{
 
 .campo label{
     margin-bottom: 0.2em;
-    color: #59429d;
+    color: #a30d83;
     display: block;
 }
 
@@ -72,7 +72,7 @@ fieldset.grupo .campo{
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus{
-    background: #e0e0f8;
+    background: #fdfdfd;
 }
 
 .botao{
@@ -96,7 +96,7 @@ fieldset.grupo .campo{
     cursor: pointer;
 }
 .botao:hover {
-    background:#ccbbff;
+    background:#e902af;
     box-shadow: inset 2px 2px 2px rgb(0,0,0,0.2) ;
     text-shadow: none;
 }
